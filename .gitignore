@@ -1,0 +1,8 @@
+# Compiled Java classes
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

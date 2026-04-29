@@ -53,4 +53,4 @@ java Main ../dados/teste-ciclo5.txt
 
 ## Video
 
-Link do video explicativo: PREENCHER
+Link do video explicativo: https://youtu.be/99gqvIpDiXw
